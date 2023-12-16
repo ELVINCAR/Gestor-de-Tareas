@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+*{
+	box-sizing: border-box;
+}
+
+main {
+	height: 100vh;
+}
+
+div {
+	gap: 20px;
+}
+input {
+}
